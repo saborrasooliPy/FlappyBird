@@ -21,3 +21,7 @@ To run Floppy Bird Py Game, follow these steps:
 
    ```shell
    git clone https://github.com/saborrasooliPy/FlappyBird.git
+   
+2. Requirments
+   ```shell
+   pip install pygame
